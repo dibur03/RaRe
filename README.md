@@ -1,2 +1,2 @@
 # RaRe
-Code will be available by the end of November 2026.
+Code will be available before the end of November 2026.
